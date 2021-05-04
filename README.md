@@ -1,0 +1,1 @@
+# textlint-rule-preset-vuejs-jp
